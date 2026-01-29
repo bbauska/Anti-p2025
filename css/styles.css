@@ -1,4 +1,5 @@
-<!-- css/styles.css of github bbauska/anti-p2025 making https://anti-p2025.bauska.org - (used zombie.bauska.org as template) -->
+<!-- css/styles.css of github bbauska/anti-p2025 making https://anti-p2025.bauska.org - (used 
+zombie.bauska.org as template) -->
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,700,900,400italic,700italic,900italic|Playfair+Display:400,700,900,400italic,700italic,900italic|Rock+Salt:400);
 
 *,
@@ -352,7 +353,7 @@ sup {
   
   /* open-book Chapter Title */
   .open-book .chapter-title {
-    font-size: 3em;  /* 3em; */
+    font-size: 2em;  /* 3em; */
   }
   .open-book .chapter-title:before,
   .open-book .chapter-title:after {
@@ -361,7 +362,7 @@ sup {
   
   /* open-book Body Copy */
   .open-book article p {
-    text-indent: 3em;  /* 1.25em; 2em;, 3em; */
+    text-indent: 1.25em;  /* 1.25em; 2em;, 3em; */
   }
   .open-book article > ul,
   .open-book article > ol {
