@@ -1,10 +1,9 @@
-<!-- css/styles.css of github bbauska/anti-p2025 making https://anti-p2025.bauska.org - (used 
-zombie.bauska.org as template) -->
+<!--~~~~~ css/styles.css of github bbauska/anti-p2025 making https://anti-p2025.bauska.org ~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ (deciphered from zombie.bauska.org as template) ~~~~~~~~~~~~~~~~~~~~~~-->
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,700,900,400italic,700italic,900italic|Playfair+Display:400,700,900,400italic,700italic,900italic|Rock+Salt:400);
 
 *,
-:before,
-:after {
+:before, :after {
   box-sizing: border-box;
 }
 
@@ -15,12 +14,11 @@ body {
   margin: 0;
 }
 
-/* was font: 16px */
 #wrapper {
   font: 16px;
   margin-left: auto;
   margin-right: auto;
-  max-width: 80em;
+  max-width: 110em;  /* 80em; */
 }
 
 #container {
@@ -35,13 +33,6 @@ body {
   padding: 0.15em 0.05em 0 0;
   text-transform: uppercase;
 }
-/*
-p:first-letter {
-font-size: 2em;
-font-family: "Edwardian Script ITC", "Brush Script MT", cursive;
-}
-p:first-line { line-height: 100%; }
-*/
 
 /*** OPEN BOOK ***/
 .open-book {
@@ -247,7 +238,7 @@ sup {
   background-color: #555;  /* very dark gray */
 }
 
-/*** MEDIA QUERIES ends at end of document, approx line 359 ***/
+/*** MEDIA QUERIES ends at end of document, thru line 364 ***/
 @media only screen and ( min-width: 50em ) {
   .open-book {
     margin: 1em;
