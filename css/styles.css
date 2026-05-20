@@ -18,7 +18,7 @@ body {
   font: 16px;
   margin-left: auto;
   margin-right: auto;
-  max-width: 110em;  /* 80em; */
+  max-width: 140em;  /* 110em; 80em; */
 }
 
 #container {
