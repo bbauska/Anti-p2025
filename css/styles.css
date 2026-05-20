@@ -10,7 +10,7 @@
 body {
   background-color: #1d1f20;  /* very dark blue */
   color: #e5e5e5;  /* very light gray */
-  font: 13px/1.25 'Crimson Text', sans-serif;  /* was 14px/1.25 */
+  font: 16px/1.25 'Crimson Text', sans-serif;  /* was 13px; 14px/1.25 */
   margin: 0;
 }
 
