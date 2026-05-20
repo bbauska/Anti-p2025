@@ -118,10 +118,10 @@ body {
 }
 .open-book article *:not(.chapter-title):not(hr):not(dl) {
   margin: 0 auto;
-  max-width: 28.125em;
+  max-width: 33.125em;  /* 28.125 */
 }
 .open-book article p {
-  text-indent: 0.75em;  /* 1.25em, 2em; */
+  text-indent: 0.50em;  /* 0.75em; 1.25em, 2em; */
 }
 .open-book .chapter-title + p:first-of-type {
   text-indent: 0;
